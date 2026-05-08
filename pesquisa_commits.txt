@@ -1,0 +1,7 @@
+O que é o padrão Conventional Commits?
+R: commits são usados para indicar mudanças em seu código.
+style: alterações de formatação sem mudar lógica do código.
+feat: adiciona uma nova funcionalidade. Exemplo: adicionar um botão.
+fix: corrige bugs ou problemas.
+docs: mudanças na documentação.
+refactor: é utilizado para organização.
